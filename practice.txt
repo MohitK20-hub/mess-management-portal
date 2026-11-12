@@ -1,0 +1,88 @@
+Student Dashboard, Menu & Passes (Atharv)(Visual Cue: Atharv clicks the Student 
+Demo button on index.html, walks through student.html, opens menu.html, then navigates to pass.html.) 
+Atharv:"Starting on the login page, our system features role-based access control
+ with one-click demo credentials for rapid testing. 
+Logging in as a student brings us to the personalized dashboard.   
+Through the navigation bar, students can access:Weekly Menu & Timings: A full weekly
+table covering Breakfast, Lunch, Snacks, and Dinner, along with the operational dining
+hours to keep students informed.   10-Month Meal Passes: For hostel residents, we designed
+long-term semester subscriptions. Students can pick plans like 3 meals a day, 2 meals a day,
+or all 4 meals including snacks.   When I select a plan here and proceed to demo payment,
+the pass activates instantly and records a transaction in the background."   2:15 – 3:15 |
+Individual Bookings, Digital Card & Handover (Atharv)(Visual Cue: Atharv clicks meal-bookings.html,
+makes a booking, visits mess-card.html to show the dynamic QR code, and hands over to Prashant.) 
+Atharv:"Beyond passes, we have Individual Meal Bookings. Day scholars or students who eat irregularly
+can choose any future date and book Breakfast for ₹40, Lunch for ₹70, or Dinner for ₹60, with built-in
+validation preventing double-booking.   Once a pass is active, the student can open their Digital Mess Card.
+Instead of carrying physical ID cards, this view dynamically displays their student ID,
+active validity dates, and a live QR code fetched via an API that encodes their pass 
+details for scanning at the dining hall entrance.   
+
+Now, I’ll hand it over to Prashant to cover billing, manager tools, and the underlying code."   
+3:15 – 4:15 | Statements, Billing & Feedback (Prashant)(Visual Cue: Prashant takes the lead; 
+opens billing.html, triggers CSV and text downloads, and demonstrates feedback.html.)  
+Prashant:"Thank you, Atharv. Hi everyone, I am Prashant.In the Billing & Statement section,
+students have complete transparency over their account. The ledger lists every pass purchase
+and meal booking alongside its status and timestamp. If plans change, students can cancel 
+individual bookings directly from this table.   We also added custom client-side file generators:
+Students can click Download CSV for an itemized spreadsheet of expenses.   Or click Download 
+e-Bill to export a clean text invoice.   Next is the Feedback Module. Students can rate their 
+dining experience from 1 to 5 and write comments, which submit directly to the manager dashboard 
+to help improve food quality."   4:15 – 5:15 | Manager Operations Dashboard (Prashant)(Visual Cue: 
+Prashant clicks Logout, selects Manager Demo, and navigates through manager.html.)   
+Prashant:"Now, let’s switch to the administrative side by logging in as the Mess Manager.   
+The Manager Dashboard consolidates daily mess administration into one place:   
+Today’s Meal Counts: Dynamically aggregates individual student bookings for the current day
+so the kitchen cooks precise portions and minimizes wastage.   
+10-Month Passes: Displays a complete roster of students, subscribed plans, and validity status.   
+Inventory Management: Staff can log essential kitchen supplies. If any item drops to 5 units or below,
+the portal flags a low-stock alert.   Menu Management: Managers can update any dish for any 
+day in real-time, instantly reflecting on the student side."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
